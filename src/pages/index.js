@@ -1,14 +1,20 @@
-import * as React from "react";
+import * as React from 'react'
+import Layout from '../components/layout'
 
 const IndexPage = () => {
   return (
-    <main>
-      <h1>Welcome to my Gatsby site!</h1>
+    <Layout pageTitle="Samu Krisztina">
+      
       <p>I'm making this by following the Gatsby Tutorial.</p>
-    </main>
+    </Layout>
   );
 };
 
-export const Head = () => <title>Home Page</title>;
+export const Head = () => (
+  <>
+    <title>Samu Krisztina</title>
+    <meta name="description" content="Samu Krisztina portfólió oldalának főoldala" />
+  </>
+)
 
-export default IndexPage;
+export default IndexPage
