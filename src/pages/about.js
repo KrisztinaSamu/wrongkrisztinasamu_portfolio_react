@@ -12,7 +12,7 @@ const AboutPage = () => {
 export const Head = () => (
   <>
     <title>Rólam</title>
-    <meta name="description" content="Your description" />
+    <meta name="description" content="Samu Krisztina portfólió oldalának rólam oldala" />
   </>
 );
 

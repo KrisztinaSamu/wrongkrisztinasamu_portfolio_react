@@ -16,4 +16,4 @@ export const Head = () => (
   </>
 );
 
-export default ContactPage;
+export default ContactPage

@@ -16,4 +16,4 @@ export const Head = () => (
   </>
 );
 
-export default Skills_and_toolsPage;
+export default Skills_and_toolsPage
