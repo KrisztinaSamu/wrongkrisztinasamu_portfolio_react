@@ -20,6 +20,10 @@ export const Head = () => (
   <>
     <title>Samu Krisztina</title>
     <meta name="description" content="Samu Krisztina portfólió oldalának főoldala" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap"
+      rel="stylesheet"
+    />
   </>
 )
 

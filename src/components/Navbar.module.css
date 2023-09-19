@@ -1,0 +1,28 @@
+/* header */
+.container {
+  margin: 20px auto;
+  max-width: auto;
+  font-family: sans-serif;
+  background-color: #ede5da;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding-left: 0;
+}
+.nav-link-item {
+  margin: 0 2px;
+  padding-right: 2rem;
+}
+.nav-link-text {
+  color: black;
+}
+
+.home {
+  margin: 20px 50px 20px 0;
+  
+}
